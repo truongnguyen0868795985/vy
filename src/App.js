@@ -117,7 +117,7 @@ function App() {
                 alt="Hien thi anh khum co duoc"
               ></img> */}
               <ReactPlayer
-                url="https://www.youtube.com/watch?v=mZF9BRZkTDQ"
+                url="https://www.youtube.com/watch?v=NP43KzN6iN4"
                 volume={1}
                 muted={true}
                 controls={true}
