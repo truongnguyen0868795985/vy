@@ -34,7 +34,7 @@ function App() {
           >
             <div>
               <a href="#" className="text-pink-500">
-                LoveZone
+                Two hearts in one lobby
               </a>
             </div>
 
@@ -81,12 +81,12 @@ function App() {
                 </li>
                 <li>
                   <a class="md:p-4 py-2 block hover:text-purple-400" href="#">
-                    ABC
+                    Em ❤
                   </a>
                 </li>
                 <li>
                   <a class="md:p-4 py-2 block hover:text-purple-400" href="#">
-                    XYz
+                    ANH 💙
                   </a>
                 </li>
               </ul>
@@ -108,7 +108,8 @@ function App() {
         "
           >
             <h1 className="text-pink-500 text-3xl text-center mb-5">
-              Ở đây khum có gì hết. Chỉ có một chút tình iu thui.
+              Đường tới với em sao toàn đèn đỏ. Lòng anh nôn nao như đang buồn
+              vậy đó. Nhưng mà chắc chỉ là tương tư thôi.
             </h1>
             <div className="flex justify-center">
               {/* <img
