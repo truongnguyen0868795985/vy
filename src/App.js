@@ -108,8 +108,9 @@ function App() {
         "
           >
             <h1 className="text-pink-500 text-3xl text-center mb-5">
-              Đường tới với em sao toàn đèn đỏ. Lòng anh nôn nao như đang buồn
-              vậy đó. Nhưng mà chắc chỉ là tương tư thôi.
+              Thương thật thương này, yêu thật yêu này Đưa tình vào gió mây{" "}
+              <br />
+              Thương thật thương này, yêu thật yêu này Cho tình ta đắm say
             </h1>
             <div className="flex justify-center">
               {/* <img
@@ -118,7 +119,7 @@ function App() {
                 alt="Hien thi anh khum co duoc"
               ></img> */}
               <ReactPlayer
-                url="https://www.youtube.com/watch?v=NP43KzN6iN4"
+                url="https://www.youtube.com/watch?v=psz1jnLj1Lw"
                 volume={1}
                 muted={true}
                 controls={true}
