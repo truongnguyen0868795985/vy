@@ -108,9 +108,8 @@ function App() {
         "
           >
             <h1 className="text-pink-500 text-3xl text-center mb-5">
-              Thương thật thương này, yêu thật yêu này Đưa tình vào gió mây{" "}
-              <br />
-              Thương thật thương này, yêu thật yêu này Cho tình ta đắm say
+              You are a goddess, I want you to know. <br />
+              I'll never forget you, I'll never let go.
             </h1>
             <div className="flex justify-center">
               {/* <img
