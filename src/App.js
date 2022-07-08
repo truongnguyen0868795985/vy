@@ -12,12 +12,7 @@ function App() {
 
   return (
     <>
-      <div
-        class="antialiased bg-gradient-to-r
-      from-pink-300
-      via-purple-300
-      to-indigo-400 h-screen"
-      >
+      <div class="">
         <header>
           <nav
             class="
@@ -94,17 +89,21 @@ function App() {
           </nav>
         </header>
 
-        <div class="px-4 mb-auto">
+        <div
+          class="p-4 antialiased bg-gradient-to-r
+      from-pink-300
+      via-purple-300
+      to-indigo-400 mb-auto"
+        >
           <div
             class="
           flex
           flex-col
           justify-center
           bg-white
-          mx-auto
           rounded-lg
-          my-16
-          p-16
+          mx-auto
+          p-4
         "
           >
             <h1 className="text-pink-500 text-3xl text-center mb-5">
@@ -118,7 +117,7 @@ function App() {
                 alt="Hien thi anh khum co duoc"
               ></img> */}
               <ReactPlayer
-                url="https://www.youtube.com/watch?v=psz1jnLj1Lw"
+                url="https://www.youtube.com/watch?v=yg6m3MM-Mb0"
                 volume={1}
                 muted={true}
                 controls={true}
